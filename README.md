@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Michael from Phillipines <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Data analytics <br>- ⚡ In my free time I play games 🎮</p>
+<p align="left">Hi! I'm Michael from Phillipines 🇵🇭 <br><br>- 🔭 I’m a Fresh Graduate of Electronics Engineering 🤖 <br>- 📚 I'm currently learning Data analytics <br>- ⚡ In my free time I play games 🎮, cycling 🚲, sketching🎨 </p>
 
 ###
 
